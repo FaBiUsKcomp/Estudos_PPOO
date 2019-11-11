@@ -15,4 +15,4 @@ Repositório destinado a disciplina GCC118 - PPOO (Práticas de Programação Or
 - Entre outros
 
 ## Codificado por:
-Fábio Oliveira -> [FaBiUsKcomp](https://github.com/FaBiUsKcomp)
+Fábio Oliveira (Ciência da Computação) -> [FaBiUsKcomp](https://github.com/FaBiUsKcomp)
