@@ -8,6 +8,7 @@ Repositório destinado a disciplina GCC118 - PPOO (Práticas de Programação Or
 - Polimorfismo
 - Herança
 - Sobrescrita de Métodos
+- Métodos Abstratos
 - Programação Genérica
 - Tratamento de Exceções
 - Interfaces
