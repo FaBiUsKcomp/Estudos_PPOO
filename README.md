@@ -1,4 +1,5 @@
 # PPOO
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdFZDVwflw7_DaO9NEudScbRxT_0UqOY4BCjlHLpemslGG6QRN)
 Repositório destinado a disciplina GCC118 - PPOO (Práticas de Programação Orientada a Objetos).<br/>
 
 <b>Neste Repositório consta Códigos estudados e implementados durante a Disciplina.<b>
